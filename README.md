@@ -1,4 +1,4 @@
-#4x4x4 Ardunio Nano LED Cube Display
+# 4x4x4 Ardunio Nano LED Cube Display
 
 📌 Project Overview
 This project is a 4x4x4 LED Cube Display that visualizes dynamic patterns using an optimized software approach. The system employs:
