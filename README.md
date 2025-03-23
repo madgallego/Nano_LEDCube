@@ -27,6 +27,7 @@ The LED cube serves as an interactive visual display for learning and creativity
 # Getting Started
 <h3>📜 Prerequisites </h3>
 Kits used for this project:
+
 - Microcontroller (Arduino Nano)
 - 4x4x4 LED setup (64 LEDS)
 - Electronics components (resistors, transistors, wires, etc.)
