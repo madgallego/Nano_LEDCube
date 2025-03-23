@@ -18,5 +18,10 @@ The LED cube serves as an interactive visual display for learning and creativity
 
 - Open-source hardware enthusiasts (enhancing modular lighting projects).
 
+<h3> Features </h3>
+✅ Optimized control using a two-dimensional and one-dimensional array approach.
+✅ Customizable patterns for a unique visual experience.
+✅ Open-source and easy-to-modify for experimentation and learning.
+
 
 
