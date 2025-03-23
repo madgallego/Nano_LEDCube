@@ -36,8 +36,8 @@ Kits used for this project:
 <h3>🔌 Installation & Setup </h3>
 1. Clone this repository:
 
-    git clone https://github.com/your-repo/led-cube.git
-    cd led-cube
+    git clone https://github.com/your-repo/Nano_LEDCube.git
+    cd Nano_LEDCube
 2. Open the project in Arduino IDE.
 
 3. Upload the provided code to your microcontroller.
@@ -47,7 +47,7 @@ Kits used for this project:
 5. Power on and enjoy the patterns!
 
 <h3> 🛠 Customization </h3>
-You can modify the patterns and animations by updating the matrix values in the code. Check out the [file.ino] file for reference.
+You can modify the patterns and animations by updating the matrix values in the code. Check out the nanoCube.ino file for reference.
 
 # For the Community
 <h3> 🤝 Contributing </h3>
