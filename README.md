@@ -52,6 +52,7 @@ You can modify the patterns and animations by updating the matrix values in the 
 # For the Community
 <h3> 🤝 Contributing </h3>
 We welcome contributions! If you have an idea or an improvement, feel free to:
+
 - Fork this repository
 - Create a new branch
 - Submit a pull request
