@@ -48,3 +48,12 @@ Kits used for this project:
 <h3> 🛠 Customization </h3>
 You can modify the patterns and animations by updating the matrix values in the code. Check out the [file.ino] file for reference.
 
+# For the Community
+<h3> 🤝 Contributing </h3>
+We welcome contributions! If you have an idea or an improvement, feel free to:
+- Fork this repository
+- Create a new branch
+- Submit a pull request
+
+<h3>📬 Contact & Support</h3>
+For questions or collaborations, open an issue in this repository or reach out via email.
