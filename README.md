@@ -30,5 +30,21 @@ Kits used for this project:
 - Microcontroller (Arduino Nano)
 - 4x4x4 LED setup (64 LEDS)
 - Electronics components (resistors, transistors, wires, etc.)
+- Arduino IDE / Compatible software
 
+<h3>🔌 Installation & Setup </h3>
+1. Clone this repository:
+
+    git clone https://github.com/your-repo/led-cube.git
+    cd led-cube
+2. Open the project in Arduino IDE.
+
+3. Upload the provided code to your microcontroller.
+
+4. Connect the LED cube circuit as per the circuit diagram.
+
+5. Power on and enjoy the patterns!
+
+<h3> 🛠 Customization </h3>
+You can modify the patterns and animations by updating the matrix values in the code. Check out the [file.ino] file for reference.
 
