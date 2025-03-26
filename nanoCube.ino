@@ -329,3 +329,26 @@ void raincube(int cubes)
     cubes--;
   }
 }
+
+void ledcheck()
+{
+  alloff();
+  for (int i = 0; i < 5; i++)
+  {
+    for (int count = 0; count !=4; count++)
+    {
+    digitalWrite(layer[count], 1); 
+    for (int j = 0; j < 4; j++)
+      {
+        for (int k = 0; k < 4; k++)
+        {
+          digitalWrite(pipe[j][k], 0);
+          delay(90);
+          digitalWrite(pipe[j][k], 1);
+          delay(90);
+        }
+      }
+      digitalWrite(layer[count], 0); 
+    }
+  }
+}
